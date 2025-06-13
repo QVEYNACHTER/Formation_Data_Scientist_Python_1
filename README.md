@@ -1,1 +1,1 @@
-# Formation_Data_Scientist_Python_1
+Pour ce projet on m'a chargé de réaliser une analyse pré-exploratoire. Il s'agit du premier projet de la formation Data Scientist. Je travaille pour une start-up de la EdTech qui souhaite se développer à l'international et je dois déterminer si les données issues de la banque mondiale permettent d'informer le projet d'expansion, malgré un nombre important de valeurs manquantes. Après une phase de nettoyage approfondi du jeu de données, j'ai effectué une analyse par regroupement géographique, par niveau de revenu, puis par pays.
